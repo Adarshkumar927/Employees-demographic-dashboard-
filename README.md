@@ -22,4 +22,4 @@ Highlights and features of dashboard :
 One of the biggest challenges organizations face today is understanding their workforce composition to drive diversity, inclusion, and retention. To solve this, we built the Employees Demographics Dashboard, designed to give a quick yet powerful overview of workforce insights. The KPIs showcase the Diversity Index Score and Average Tenure, instantly revealing key strengths and gaps. A gender-wise pie chart highlights workforce balance, while the department-wise clustered column chart uncovers distribution trends. Together, these visuals turn complex HR data into actionable insights, enabling leaders and recruiters to make smarter, data-driven decisions for a more inclusive and resilient organization.
 
 
-Demo screenshot of dashboard : 
+Demo screenshot of dashboard : https://github.com/Adarshkumar927/Employees-demographic-dashboard-/blob/main/Screenshot%202025-09-27%20213058.png
